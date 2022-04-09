@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.attacktit.onsquid",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": "Shingeki no Kyojin (Attack on Titan) has now become the face of the anime genre. It’s an incredibly gripping action show capable of converting non-anime fans into regular watchers. When watching this series, you might wide open your mouth for 5-10 seconds without even realizing. That much intensity, it packs into every fight scene. But be prepared if you are not a fan of gore or hate watching characters die just after their introductions. The series has an amazingly composed story with a very dark premise."
+		},
+		{
+			"title": "Guide 2",
+			"description": "The first season of Attack on Titan was so popular that fans were praying for a new season. While the studio took some time to reveal the second season, it was worth waiting for it. After that, the studio started consistently releasing new seasons and OVAs. Now with four seasons and three OVA’s it might be confusing for the new fans."
+		},
+		{
+			"title": "Guide 3",
+			"description": " This is the easiest game to win because all you need is agility and endurance. Footing is everything. Walk forward with broad steps and flat feet. Though you may be tempted, do not run. Prioritizing speed will most likely backfire since running makes it harder to come to a complete stop, and you can easily stumble while regaining your balance. Only save a sprint towards the very end, when the finish line is only a few feet away "
+		},
+		{
+			"title": "Guide 4  ",
+			"description": " Funny enough, you probably want to keep your distance from others as well. You don’t want to be in the way if a frightened player makes a run for the gates. You also don’t want to trip over another player like Gi-hun. Had Ali (Anupam Tripathi) not been there to save him, it would have been a very different show. "
+		},
+		{
+			"title": "Guide 5",
+			"description": "Animal Revolt Battle Simulator is the ultimate physics-based battle simulator sandbox! put together two opposing armies made up of different types of beasts and watch them tear each other apart in an epic battle! As the creatures fight, you can see limbs bend, necks twist, and bodies fly everywhere.  "
+		}
+	]
+}
